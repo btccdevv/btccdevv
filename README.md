@@ -6,7 +6,7 @@
 
 
 [![Website](https://img.shields.io/badge/aetherdev.lol-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white)](https://aetherdev.lol)
-[![Github](https://img.shields.io/badge/18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btccdevv)
+[![Github](https://img.shields.io/badge/18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 

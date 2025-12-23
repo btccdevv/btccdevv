@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=60&section=footer" width="100%"/>
 
 ### 🔮 Systems Engineer from Romania
-**Building complex, local-first architectures.**
+
 
 [![Website](https://img.shields.io/badge/aetherdev.lol-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white)](https://aetherdev.lol)
-[![Github](https://img.shields.io/badge/btccdevv-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btccdevv)
+[![Github](https://img.shields.io/badge/Edi-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🧬 About
 
-Hi, I'm **Edi**. While the industry chases hype, I chase **systems**. I am a 15-year-old developer focused on building real tools—desktop applications, network utilities, and visualization engines—primarily on Linux.
+Hi, I'm **Edi**. While the industry chases hype, I chase **systems**. I am a developer focused on building real tools—desktop applications, network utilities, and visualization engines—primarily on Linux.
 
 *   **Mindset:** Logic over buzzwords.
 *   **Daily Driver:** Arch Linux / EndeavourOS.
